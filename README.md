@@ -5,3 +5,5 @@ All the images used here are collected from Google.
 It is just a very Simple restaurant website Project 
 I have taken my near by Restaurant known as The Cafe Garage as reference and did my project.
 completely for my practice only.
+# code
+most of my coding involves html5,css3 and a little of Javascript.
